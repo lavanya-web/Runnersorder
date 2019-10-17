@@ -46,7 +46,7 @@ public class Main {
             }
 
         }
-        System.out.println("The fastest runner is " +names[0]+" with run time "+times[0]+ " minutes.");
-        System.out.println("The second fastest runner is " +names[1]+" with run time "+times[1] + " minutes.");
+        System.out.println("The fastest runner is " +names[0]+" with run time "+times[0]);
+        System.out.println("The second fastest runner is " +names[1]+" with run time "+times[1]);
     }
 }
